@@ -1,0 +1,32 @@
+body{
+    background-color: #7fffd4;
+}
+
+#title{
+    text-align: center;
+    font-size: 49px;
+    color: rgb(30, 0, 200);
+}
+
+.links{
+    text-align: center;
+    font-size: 24px;
+}
+
+/*.list{
+    text-align: center;
+    list-style-type: none;
+    font-size: larger;
+}*/
+
+.decoration, .underline{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.animated{
+    width: 300px;
+}
