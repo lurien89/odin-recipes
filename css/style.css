@@ -1,5 +1,6 @@
 body{
     background-color: #7fffd4;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 #title{
@@ -9,15 +10,10 @@ body{
 }
 
 .links{
+    font-family: "Courier New";
     text-align: center;
     font-size: 24px;
 }
-
-/*.list{
-    text-align: center;
-    list-style-type: none;
-    font-size: larger;
-}*/
 
 .decoration, .underline{
     width: 600px;
