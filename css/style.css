@@ -16,7 +16,7 @@ body{
 }
 
 .decoration, .underline{
-    width: 600px;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
@@ -25,4 +25,5 @@ body{
 
 .animated{
     width: 300px;
+    border: 20px groove darkblue;
 }
