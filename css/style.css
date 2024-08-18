@@ -34,8 +34,10 @@ body{
 .plate_ready{
     box-sizing: border-box;
     width: 400px;
+    height: auto;
 }
 
-.steps{
+.steps, .description{
+    box-sizing: border-box;
     width: 800px;
 }
