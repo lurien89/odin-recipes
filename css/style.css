@@ -21,13 +21,13 @@ body{
     height: auto;
     padding: 5px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 .animated{
     width: 300px;
     border: 20px groove darkblue;
+    background-color: white;
 }
 
 /* Using the alternative CSS box model */
