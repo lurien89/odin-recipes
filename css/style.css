@@ -9,13 +9,6 @@ body{
     color: rgb(30, 0, 200);
 }
 
-/* Changing links container into a flex box 
-.links{
-    font-family: "Courier New";
-    text-align: center;
-    font-size: 24px;
-} */
-
 .links {
     text-align: center;
     display: flex;
